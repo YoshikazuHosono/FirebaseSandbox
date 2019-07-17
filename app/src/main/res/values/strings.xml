@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">FirebaseSandbox</string>
+
+    <!-- SignUpWithEmailActivity -->
+    <string name="SignUpWithEmailActivity_inputMailAddrHint">メールアドレス</string>
+    <string name="SignUpWithEmailActivity_inputPswdHint">パスワード</string>
+    <string name="SignUpWithEmail_signupTxt">Sign Up !!!</string>
+    <string name="SignUpWithEmail_statusLabel">ステータス</string>
+    <string name="SignUpWithEmail_statusValueLabel">初期表示</string>
 </resources>
